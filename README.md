@@ -11,7 +11,7 @@ This application will display the individual stock of the company and the descri
 - ReactJS
 ## Screenshots
 
-![App Screenshot]("C:\Users\mahi1\OneDrive\Pictures\Screenshots\2022-09-19.png")
+<img width="914" alt="image" src="https://user-images.githubusercontent.com/107022099/191071394-bc7a5a73-871f-4126-a306-1b76dce0e36c.png">
 
 
 ## Demo
